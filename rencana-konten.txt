@@ -3,5 +3,6 @@ RENCANA KONTEN ALWAN
 -Video Cover Gitar
   *Peterpan
   *Cita Citata
--Video ADS
+   ^Goyang Dumang
 -Video Tutor Gitar
+  *Cara genjreng
